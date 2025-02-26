@@ -167,29 +167,8 @@ To further refine insights and enhance actionable outcomes, consider pursuing th
 - Evaluate current pricing models and discount strategies to optimize revenue and profitability.
 - Analyze price sensitivity and elasticity to inform dynamic pricing strategies that align with customer value perceptions.
 
-<a id="screenshots"></a>
 
-## Screenshots/Visual Examples
 
-![CRR](images/cohort_layer_cake_new.png)
-
-![CRR](images/CRR_FirstPurchaseCohort_AddonsPlugins.png)
-
-![CE](images/CostEfficiency_SpecializedTools.png)
-
-![CM](images/Correlation_Matrix.png)
-
-<a id="estimated-impact"></a>
-
-## Estimated Impact of Proposed Actions with Advanced SaaS Metrics and Cited Industry Benchmarks**
-
-- **Gross Dollar Retention (GDR):** Estimated **10%** increase through strategic retention strategies. *(Supported by KeyBanc Capital Markets, 2021; Bessemer Venture Partners, 2020)*
-
-- **Customer Lifetime Value (CLV) Growth Rate:** Estimated **20%** increase via enhanced cross-selling, upselling, and engagement strategies. *(Supported by SaaS Capital, 2021; OpenView Partners, 2020)*
-
-- **Expansion MRR:** Estimated **15%** increase through targeted upsell and cross-sell opportunities. *(Supported by Pacific Crest Securities, 2020; McKinsey & Company, 2021)*
-
-<a id="conclusion"></a>
 
 ## Conclusion
 This project highlights my ability to perform in-depth cohort analysis and deliver actionable insights that directly influence business strategy and growth. By analyzing customer behavior through segmentation and retention metrics, I identified key opportunities to optimize customer lifetime value and drive significant improvements in business performance, including projected increases of 10% in Gross Dollar Retention, 20% in CLV Growth, and 15% in Expansion MRR.
@@ -201,11 +180,5 @@ Key takeaways include:
 
 This project exemplifies my commitment to driving business value through data analysis, strategic thinking, and effective communication. I am eager to bring these skills to a dynamic team where I can continue to contribute to data-driven success!
 
-<a id="contact"></a>
 
-## Contact
-For more information, please contact:
 
-**Name:** Matt Delaune
-
-**Email:** matt.delaune@gmail.com
